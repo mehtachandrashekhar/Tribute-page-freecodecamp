@@ -1,3 +1,25 @@
 html{
     box-sizing: border-box;
 }
+body{
+    font-family:BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    display: block;
+    line-height: 1.5;
+    color: #333333; 
+    background-color: #EEEEEE;
+
+}
+img{
+    display: block;
+}
+main{
+    color: #333333;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+h1{
+    margin-bottom: 0;
+}
