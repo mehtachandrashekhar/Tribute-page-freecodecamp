@@ -94,4 +94,19 @@ html {
     margin: 0 auto 50px auto;
     text-align: left;
   }
+  body {
+    top: 0px !important;
+   }
+
+#google_translate_element{
+  float:right;
+}
+   body > .skiptranslate > iframe.skiptranslate {
+    display: none !important;
+    visibility: hidden !important;
+   }
+
+  a > img{
+    display: none;
+  }
   
